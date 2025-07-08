@@ -1,4 +1,4 @@
-Simple E-Shop Template
+ E-Shop Template1
 ======================
 
 This is a ready-to-use front-end e-commerce website built with HTML, CSS, and JavaScript.
